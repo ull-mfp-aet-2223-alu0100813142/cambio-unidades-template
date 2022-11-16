@@ -2,7 +2,9 @@
 
 En este ejercicio se te pide que realices los cambios de unidades propuestos.
 
-Puedes ayudarte de [CONVERTWORLD](https://www.convertworld.com/es/), un conversor de unidades.
+:hash: Aquí de dejo una [calculadora](https://harsh98trivedi.github.io/Simple-JavaScript-Calculator/) elaborada por [Harsh Trivedi](https://github.com/harsh98trivedi).
+
+:arrow_forward: Y puedes ayudarte de [CONVERTWORLD](https://www.convertworld.com/es/), un conversor de unidades.
 
 - -90 &deg;C =  K
 
